@@ -38,6 +38,7 @@ public class MainTaxometr extends FragmentActivity {
                 WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
     }
 
+
     @Override
     protected void onStart() {
         super.onStart();
