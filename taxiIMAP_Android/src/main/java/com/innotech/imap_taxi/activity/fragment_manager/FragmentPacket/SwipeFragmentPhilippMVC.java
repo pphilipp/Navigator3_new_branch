@@ -103,7 +103,9 @@ import java.util.List;
 
 import butterknife.Bind;
 import butterknife.ButterKnife;
-
+/**
+ * This class is not use currently. Trying to reorganise by MVC.
+ * */
 public class SwipeFragmentPhilippMVC extends FragmentPacket
         implements OnTouchListener, OnClickListener {
     public static final String  LOG_TAG = SwipeFragment.class.getSimpleName();

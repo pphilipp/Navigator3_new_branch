@@ -36,7 +36,8 @@ import java.util.ArrayList;
 
 /**
  * Created by philipp on 25.04.16.
- */
+ * This class is not use currently. Trying to reorganise by MVC.
+ * */
 public class MainMapSwipeFragment extends Fragment implements View.OnClickListener {
     private static final String LOG_TAG = MainMapSwipeFragment.class.getSimpleName();
     boolean updateMyLoc;

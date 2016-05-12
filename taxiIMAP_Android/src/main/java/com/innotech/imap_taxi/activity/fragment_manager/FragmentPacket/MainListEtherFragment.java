@@ -28,7 +28,8 @@ import java.util.ArrayList;
 
 /**
  * Created by philipp on 25.04.16.
- */
+ * This class is not use currently. Trying to reorganise by MVC.
+ * */
 public class MainListEtherFragment extends Fragment implements View.OnClickListener, AdapterView.OnItemClickListener{
     private static final String LOG_TAG = MainListEtherFragment.class.getSimpleName();
     LinearLayout llNoEtherSecond;

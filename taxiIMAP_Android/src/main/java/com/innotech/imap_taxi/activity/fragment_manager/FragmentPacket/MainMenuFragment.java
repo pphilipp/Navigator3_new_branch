@@ -69,7 +69,8 @@ import java.util.ArrayList;
 
 /**
  * Created by philipp on 25.04.16.
- */
+ * This class is not use currently. Trying to reorganise by MVC.
+ * */
 public class MainMenuFragment extends Fragment implements View.OnClickListener{
     private static final String LOG_TAG = MainMenuFragment.class.getSimpleName();
     private static final int RESULT_SETTINGS = 1;
